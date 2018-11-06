@@ -1,0 +1,11 @@
+body{
+    font-family:sans-serif;
+    background-color:#999;
+    background-blend-mode: darken;
+    background-position: 100%
+
+}
+h1{
+    text-align:center;
+    font-display:white;
+}
